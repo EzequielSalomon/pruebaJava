@@ -17,6 +17,7 @@ public class Mavenproject1 {
 
     public static void main (String[]args) throws IOException {
 
+System.out.println("Hola");
 
 System.out.println("Ingrese el primer numero:");
 Integer numero1 = cargarNumero();
